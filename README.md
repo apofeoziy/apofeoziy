@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @apofeoziy
-- 👀 I’m interested in web and backend
-- 🌱 I’m currently learning psychology
-- 💞️ I’m looking to collaborate on yandex
-- 📫 im live in msk
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hack+you+ass)](https://git.io/typing-svg)
 
 <!---
 apofeoziy/apofeoziy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
